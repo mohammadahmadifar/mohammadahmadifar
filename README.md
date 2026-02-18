@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohammad Ahmadifar 👋
 
-<!--
-**mohammadahmadifar/mohammadahmadifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer based in Tehran, Iran.
 
-Here are some ideas to get you started:
+I build scalable backend systems using **PHP**, **Laravel**, **Python**, and **AI/ML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- PHP · Laravel · Python
+- MySQL · Redis
+- AI / Computer Vision
+
+### 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/mohammad-ahmadifar)
