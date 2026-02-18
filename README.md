@@ -25,10 +25,10 @@ I spend most of my time building backends that quietly keep things running — A
 ## Stack I reach for first
 
 ```
-Backend     →  PHP · Laravel · Python · Node.js
-AI / ML     →  Computer Vision · LLM integration · OpenAI APIs
-Mobile      →  Flutter / Dart
-Database    →  MySQL · Redis
+Backend  → PHP · Laravel · Python · Node.js
+AI / ML  → Computer Vision · LLM integration · OpenAI APIs
+Mobile   → Flutter / Dart
+Database → MySQL · Redis
 ```
 
 ---
@@ -43,9 +43,11 @@ Database    →  MySQL · Redis
 
 ---
 
-## Numbers (because GitHub loves them)
+## Tools & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadahmadifar&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,ts,flutter,dart,mysql,redis&theme=dark" />
+</div>
 
 ---
 
